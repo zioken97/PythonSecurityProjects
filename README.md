@@ -12,6 +12,19 @@ A basic log file analyzer that searches for suspicious patterns in system or app
 - **Dependencies**: None (standard library only)  
 - **Usage**: Customize `suspicious_patterns` in the script and run it against your `.log` file.
 
+## Vulnerability Scanner
+
+Description:
+A lightweight scanner that checks websites for common vulnerabilities using keyword detection and HTTP responses.
+
+Language: Python
+
+Dependencies: requests, re
+
+Scan Targets: Customizable list of URLs
+
+Detection: Looks for common error messages, outdated server headers, and path-based indicators
+
 
 ⚠️ DISCLAIMER: This tool is for educational/demo purposes only. Do not use on unauthorized log files.
 
