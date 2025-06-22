@@ -26,6 +26,6 @@ Scan Targets: Customizable list of URLs
 Detection: Looks for common error messages, outdated server headers, and path-based indicators
 
 
-⚠️ DISCLAIMER: This tool is for educational/demo purposes only. Do not use on unauthorized log files.
+⚠️ DISCLAIMER: These tools are for educational/demo purposes only. 
 
 
