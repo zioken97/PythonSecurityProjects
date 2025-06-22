@@ -1,4 +1,5 @@
 PythonSecurityProjects
+
 A curated collection of Python scripts focused on security-related tasks. These projects demonstrate practical skills in log analysis, vulnerability detection, and automation of common security operations. Each tool is self-contained, beginner-friendly, and designed to showcase real-world applications of Python in cybersecurity.
 
 ⚠️ Disclaimer: All scripts are intended for educational and authorized use only. Never use these tools on systems you do not own or have explicit permission to test.
